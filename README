@@ -1,0 +1,1 @@
+I'm working on something which traverses into a project and looks for any dependency definition files and does something in response to them. So these are some sample files I found to work with.
